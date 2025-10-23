@@ -8,7 +8,7 @@ app = FastAPI()
 origins = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
-    "https://quantvision.vercel.app"
+    "https://quantvision.vercel.app",
     "https://quantvision-sshubhans-projects.vercel.app",
 ]
 
